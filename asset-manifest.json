@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/tic-tac/static/css/main.3aef9a80.chunk.css",
+    "main.js": "/tic-tac/static/js/main.5c4128ce.chunk.js",
+    "main.js.map": "/tic-tac/static/js/main.5c4128ce.chunk.js.map",
+    "runtime-main.js": "/tic-tac/static/js/runtime-main.5948d34b.js",
+    "runtime-main.js.map": "/tic-tac/static/js/runtime-main.5948d34b.js.map",
+    "static/js/2.154ff755.chunk.js": "/tic-tac/static/js/2.154ff755.chunk.js",
+    "static/js/2.154ff755.chunk.js.map": "/tic-tac/static/js/2.154ff755.chunk.js.map",
+    "index.html": "/tic-tac/index.html",
+    "precache-manifest.a95a2f16bb5ae08f16581b4666cbf81b.js": "/tic-tac/precache-manifest.a95a2f16bb5ae08f16581b4666cbf81b.js",
+    "service-worker.js": "/tic-tac/service-worker.js",
+    "static/css/main.3aef9a80.chunk.css.map": "/tic-tac/static/css/main.3aef9a80.chunk.css.map",
+    "static/js/2.154ff755.chunk.js.LICENSE.txt": "/tic-tac/static/js/2.154ff755.chunk.js.LICENSE.txt",
+    "static/media/avataaars.svg": "/tic-tac/static/media/avataaars.81899e18.svg",
+    "static/media/cabin.png": "/tic-tac/static/media/cabin.56ec4ee7.png",
+    "static/media/cake.png": "/tic-tac/static/media/cake.a29c0b43.png",
+    "static/media/circus.png": "/tic-tac/static/media/circus.e27c88e5.png",
+    "static/media/game.png": "/tic-tac/static/media/game.107d31e8.png",
+    "static/media/safe.png": "/tic-tac/static/media/safe.7dfdcf55.png",
+    "static/media/submarine.png": "/tic-tac/static/media/submarine.8fad4ff9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5948d34b.js",
+    "static/js/2.154ff755.chunk.js",
+    "static/css/main.3aef9a80.chunk.css",
+    "static/js/main.5c4128ce.chunk.js"
+  ]
+}
